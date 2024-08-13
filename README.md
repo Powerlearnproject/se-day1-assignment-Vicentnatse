@@ -25,9 +25,9 @@ Overall, software engineering is critical for creating high-quality software tha
 Identify and describe at least three key milestones in the evolution of software engineering.
 Several milestones have significantly shaped the evolution of software engineering. Here are three key ones:
 
-1. **The Birth of Structured Programming (1960s-1970s)**:
-   - **Description**: Structured programming emerged as a response to the complexities of managing large codebases. Influential figures like Edsger Dijkstra and others advocated for clear, logical structuring of code to improve readability and maintainability.
-   - **Impact**: This milestone introduced fundamental concepts like control structures (loops, conditionals) and modular programming, which greatly improved software reliability and ease of debugging. It set the stage for modern programming practices and methodologies.
+1. The Birth of Structured Programming (1960s-1970s):
+   - Description: Structured programming emerged as a response to the complexities of managing large codebases. Influential figures like Edsger Dijkstra and others advocated for clear, logical structuring of code to improve readability and maintainability.
+   - Impact: This milestone introduced fundamental concepts like control structures (loops, conditionals) and modular programming, which greatly improved software reliability and ease of debugging. It set the stage for modern programming practices and methodologies.
 
 2. **The Introduction of Object-Oriented Programming (1980s)**:
    - **Description**: Object-oriented programming (OOP) emerged with languages like Smalltalk and later C++. It focused on organizing software around objects and classes rather than procedures.
@@ -37,11 +37,32 @@ Several milestones have significantly shaped the evolution of software engineeri
    Description: Agile methodologies, formalized by the Agile Manifesto in 2001, emphasize iterative development, customer collaboration, and responsiveness to change over traditional, rigid processes.
 Impact: Agile practices transformed software development by fostering more flexible and adaptive approaches. They promoted incremental delivery, constant feedback, and close collaboration between developers and stakeholders, leading to faster and more effective development cycles.
 
-These milestones represent significant shifts in how software is developed and managed, each contributing to the maturity and efficiency of software engineering practices.
-
-
 List and briefly explain the phases of the Software Development Life Cycle.
+The software engineering life cycle consists of several phases, each contributing to the creation and maintenance of software. Here’s a brief overview of these phases:
 
+1. **Requirements Gathering and Analysis**:
+   - **Description**: This phase involves understanding and documenting what the software needs to do. Stakeholders provide input on the system’s requirements, and these are analyzed to create a detailed specification.
+   - **Purpose**: To ensure a clear understanding of the project’s goals and requirements, which guides all subsequent phases.
+
+2. **System Design**:
+   - **Description**: In this phase, the system’s architecture and design are developed based on the requirements. This includes high-level design (overall system structure) and detailed design (specific components and their interactions).
+   - **Purpose**: To create a blueprint for constructing the software, detailing how the system will be built and how its components will interact.
+
+3. **Implementation (Coding)**:
+   - **Description**: During this phase, the actual code is written based on the design specifications. Developers translate design documents into functional software using programming languages.
+   - **Purpose**: To develop the software according to the design specifications, creating the working system.
+
+4. **Testing**:
+   - **Description**: This phase involves evaluating the software to ensure it meets the specified requirements and is free of defects. Various testing methods, such as unit testing, integration testing, and system testing, are used.
+   - **Purpose**: To identify and fix bugs and ensure that the software performs as expected before it is released.
+
+5. **Deployment**:
+   - **Description**: In this phase, the software is released and installed in the target environment where it will be used by end-users. Deployment can involve configuration, installation, and user training.
+   - **Purpose**: To make the software available to users and ensure it operates correctly in the production environment.
+
+6. **Maintenance**:
+   - **Description**: After deployment, the software enters the maintenance phase, where it is updated and enhanced to fix issues, address new requirements, or adapt to changes in the environment.
+   - **Purpose**: To ensure the software remains functional and relevant over time, addressing any issues and making improvements as needed.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
