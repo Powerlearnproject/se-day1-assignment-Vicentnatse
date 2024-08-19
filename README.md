@@ -15,9 +15,11 @@ Several milestones have significantly shaped the evolution of software engineeri
 1. The Coining of the Term "Software Engineering" (Late 1960s)
 
 Description: Before the late 1960s, software development was often seen as more of an art than a science. As software systems grew in complexity, it became evident that a more structured approach was needed. This realization led to the coining of the term "software engineering" at a NATO conference in 1968.
+
 2. The Rise of Object-Oriented Programming (OOP) (1980s)
 
 Description: Object-oriented programming introduced a paradigm shift in software development, focusing on objects as the fundamental building blocks. Languages like Smalltalk, C++, and Java gained prominence
+
 3. The Agile Manifesto and Agile Development (Early 2000s)
 
 Description: In response to the limitations of traditional waterfall methodologies, the Agile Manifesto was published in 2001. It emphasized values like individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
